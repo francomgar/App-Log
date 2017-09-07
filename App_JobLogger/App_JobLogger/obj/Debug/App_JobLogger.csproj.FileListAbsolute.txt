@@ -1,0 +1,2 @@
+C:\Users\Franco García\Documents\Visual Studio 2012\Projects\App_JobLogger\App_JobLogger\bin\Debug\App_JobLogger.exe.config
+C:\Users\Franco García\Documents\Visual Studio 2012\Projects\App_JobLogger\App_JobLogger\obj\Debug\App_JobLogger.csprojResolveAssemblyReference.cache

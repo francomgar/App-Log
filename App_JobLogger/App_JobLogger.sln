@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_JobLogger", "App_JobLogger\App_JobLogger.csproj", "{05BDDB96-7311-46A0-B16E-E5F12C1D87B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_JobLoggerUnitTest", "App_JobLoggerUnitTest\App_JobLoggerUnitTest.csproj", "{C28732D1-0E71-439B-AAFE-29E378CC7503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05BDDB96-7311-46A0-B16E-E5F12C1D87B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BDDB96-7311-46A0-B16E-E5F12C1D87B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BDDB96-7311-46A0-B16E-E5F12C1D87B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BDDB96-7311-46A0-B16E-E5F12C1D87B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C28732D1-0E71-439B-AAFE-29E378CC7503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28732D1-0E71-439B-AAFE-29E378CC7503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28732D1-0E71-439B-AAFE-29E378CC7503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28732D1-0E71-439B-AAFE-29E378CC7503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
